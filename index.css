@@ -56,3 +56,19 @@ p{
     font-size: large;
     font-style: italic;
 }
+
+#dia:hover {
+ background-color: gold;
+}
+
+#hora:hover{
+background-color: palevioletred;
+} 
+
+#minuto:hover{
+background-color: silver;
+} 
+
+#segundo:hover{
+background-color: greenyellow;
+}
